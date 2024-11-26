@@ -57,3 +57,4 @@ CATKIN_IGNORE
 /install/camera_subscriber/share
 /install/opencv_cam
 /install/ros2_shared
+/src/usb_cam

@@ -4,7 +4,7 @@
 ```
 git clone https://github.com/Erzis900/ROS-Robot-Control.git
 cd ROS-Robot-Control
-./init.sh
+sh init.sh
 ```
 
 ## Running

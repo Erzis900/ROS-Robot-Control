@@ -49,3 +49,11 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+/log/build_2024-11-26_12-23-23
+/log/build_2024-11-26_12-23-22
+/log
+/src/camera_subscriber/install/camera_subscriber/share
+/src/camera_subscriber/log
+/install/camera_subscriber/share
+/install/opencv_cam
+/install/ros2_shared

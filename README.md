@@ -4,6 +4,7 @@
 ```
 git clone https://github.com/Erzis900/ROS-Robot-Control.git
 cd ROS-Robot-Control
+source /opt/ros/humble/setup.bash
 sh init.sh
 ```
 
